@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🔭 I’m currently working on a genius mobile game - check my repo (...)
-- - ✨ I'm very passionate with code architecture and tests
+- ✨ I'm very passionate with code architecture and tests
 - 💬 Ask me about anithing
 
 
